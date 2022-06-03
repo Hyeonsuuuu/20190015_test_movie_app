@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Hyeonsuuuu/20190015_test_movie_app/static/css/main.9d820e14.css",
-    "main.js": "/Hyeonsuuuu/20190015_test_movie_app/static/js/main.a339774a.js",
-    "index.html": "/Hyeonsuuuu/20190015_test_movie_app/index.html",
-    "main.9d820e14.css.map": "/Hyeonsuuuu/20190015_test_movie_app/static/css/main.9d820e14.css.map",
-    "main.a339774a.js.map": "/Hyeonsuuuu/20190015_test_movie_app/static/js/main.a339774a.js.map"
+    "main.css": "/20190015_test_movie_app/static/css/main.9d820e14.css",
+    "main.js": "/20190015_test_movie_app/static/js/main.a339774a.js",
+    "index.html": "/20190015_test_movie_app/index.html",
+    "main.9d820e14.css.map": "/20190015_test_movie_app/static/css/main.9d820e14.css.map",
+    "main.a339774a.js.map": "/20190015_test_movie_app/static/js/main.a339774a.js.map"
   },
   "entrypoints": [
     "static/css/main.9d820e14.css",
